@@ -1,0 +1,14 @@
+.tile {
+  border-radius: 10px;
+  background-color: #6d8f0e;
+  padding: 6px 12px;
+  margin-bottom: 6px;
+
+  p {
+    color: #fff;
+
+    &:first-child {
+      font-weight: bold;
+    }
+  }
+}

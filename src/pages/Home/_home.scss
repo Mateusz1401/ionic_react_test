@@ -1,0 +1,13 @@
+.homePage {
+  height: 100%;
+  display: flex;
+  align-items: flex-end;
+  background-image: url("https://cdn.pixabay.com/photo/2015/09/09/16/05/forest-931706_960_720.jpg");
+
+  .welcome_buttons {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    padding: 20px;
+  }
+}

@@ -1,0 +1,10 @@
+.pageTab {
+
+  &.tab-selected {
+    color: #6d8f0e;
+  }
+
+  .badge {
+    --background: red;
+  }
+}

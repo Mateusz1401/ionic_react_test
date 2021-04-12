@@ -1,0 +1,6 @@
+// Get Stores
+export enum StoresActionType {
+  GET_STORES_REQUEST = 'GET_STORES_REQUEST',
+  GET_STORES_DONE = 'GET_STORES_DONE',
+  GET_STORES_FAILED = 'GET_STORES_FAILED',
+};
